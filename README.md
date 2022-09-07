@@ -103,19 +103,19 @@ You can easily split the original Acute-Lymphoblastic-Leukemia dataset into trai
 The number of images in train and test dataset:<br>
 <img src="./projects/Acute-Lymphoblastic-Leukemia/_Acute-Lymphoblastic-Leukemia_.png" width="640" height="auto">
 <br>
-<br>
+
 Sample images of Acute-Lymphoblastic-Leukemia/train/Benign:<br>
 <img src="./asset/ALL_train_Benign.png" width="840" height="auto">
 <br> 
-<br>
+
 Sample images of Acute-Lymphoblastic-Leukemia/train/Early:<br>
 <img src="./asset/ALL_train_Early.png" width="840" height="auto">
 <br> 
-<br>
+
 Sample images of Acute-Lymphoblastic-Leukemia/train/Pre:<br>
 <img src="./asset/ALL_train_Pre.png" width="840" height="auto">
 <br> 
-<br>
+
 Sample images of Acute-Lymphoblastic-Leukemia/train/Pro:<br>
 <img src="./asset/ALL_train_Pro.png" width="840" height="auto">
 <br> 
