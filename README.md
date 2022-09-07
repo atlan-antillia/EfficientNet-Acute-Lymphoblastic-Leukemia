@@ -1,4 +1,4 @@
-<h2>EfficientNet-Acute-Lymphoblastic-Leukemia (Updated: 2022/09/01)</h2>
+<h2>EfficientNet-Acute-Lymphoblastic-Leukemia (Updated: 2022/09/07)</h2>
 <a href="#1">1 EfficientNetV2 Acute-Lymphoblastic-Leukemia Classification </a><br>
 <a href="#1.1">1.1 Clone repository</a><br>
 <a href="#1.2">1.2 Prepare Malaria Cell Images dataset</a><br>
